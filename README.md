@@ -14,6 +14,6 @@ BLAKE2sp: 1E21B322FF073E8C9C3F6D37C5590480BACCAB2A20D5E98F7B99C66CBFA2AB5C
 
 均由7-zip计算得到
 
-(Zhihu)[https://zhuanlan.zhihu.com/p/78227380]
+[Zhihu](https://zhuanlan.zhihu.com/p/78227380)
 
-(Weibo)[https://www.weibo.com/5505578917/I2iYLCjA4]
+[Weibo](https://www.weibo.com/5505578917/I2iYLCjA4)
